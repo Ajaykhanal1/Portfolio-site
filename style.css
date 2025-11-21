@@ -9,7 +9,7 @@
     box-sizing: border-box;
 }
 .container{
-    padding: ;
+    
     display: flex;
 }
 .title{
@@ -67,4 +67,7 @@ p {
   padding: 0;
 }
 
-
+img{
+    height: 150px;
+    width: 430px;
+}
